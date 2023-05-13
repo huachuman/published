@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/untitled-3/","tags":[""]}
+{"dg-publish":true,"permalink":"/untitled-3/"}
 ---
 
 test
